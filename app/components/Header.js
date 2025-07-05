@@ -27,7 +27,7 @@ const Header = ({
 }) => {
   return (
     <header className="border-b fixed w-full top-0 z-50 bg-white dark:bg-gray-900 dark:text-white">
-      <div className="container mx-auto px-4 h-16 flex justify-between items-center">
+      <div className="px-8 h-16 flex justify-between items-center">
         <div className="font-bold text-xl">
           <Link href="/">cyber</Link>
         </div>
